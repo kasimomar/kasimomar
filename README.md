@@ -2,6 +2,8 @@
 
 I'm interested in software engineering, data analytics, and machine learning. This is where I share the projects I'm working on.
 
+Contact: [kasimmomarr@gmail.com](mailto:kasimmomarr@gmail.com)
+
 ## Projects
 
 - **[Midnimo Athletics](https://github.com/kasimomar/midnimo-athletics)** — a youth athletics website with program information, registration, and a Stripe payment link. Built with Next.js, TypeScript, and Tailwind CSS.
