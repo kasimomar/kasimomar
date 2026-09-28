@@ -6,7 +6,7 @@ Contact: [kasimmomarr@gmail.com](mailto:kasimmomarr@gmail.com)
 
 ## Projects
 
-- **[Midnimo Athletics](https://github.com/kasimomar/midnimo-athletics)** — a youth athletics website with program information, registration, and a Stripe payment link. Built with Next.js, TypeScript, and Tailwind CSS.
+- **[Midnimo Athletics](https://github.com/kasimomar/midnimo-athletics)** — a nonprofit youth sports website with a scrollytelling video hero, community program information, and an inquiry form powered by Resend. Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 - **[Handwritten digit classifier](https://github.com/kasimomar/digits-classifier-ml)** — a Python project comparing logistic regression and an SVM, with tests, saved evaluation results, and a prediction command.
 - **[Community sports analytics](https://github.com/kasimomar/community-sports-sql)** — SQL queries for collection, attendance, capacity, and retention, using a small synthetic dataset.
 
